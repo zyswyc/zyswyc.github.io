@@ -1,2 +1,0 @@
-# zyswyc.github.io
-aicoder
